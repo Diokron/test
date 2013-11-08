@@ -1,4 +1,4 @@
 <?php
 	echo "off";
-	include("index.php");
+	include("indx.php");
 ?>
